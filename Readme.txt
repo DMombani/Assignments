@@ -6,5 +6,6 @@
 --------------------------------------------------------------------------------------------------
 5) On submitting new data, data is being added to the field of table (mydata) named 'dataname' in DB (named postgres).
 6)There is a search box to search each relevant words, letters, or any other matching combination.
+7) There is a delete button next to search box. Search and enter a workd to delete by pressing delete button.
 --------------------------------------------------------------------------------------------------
-7) Technologies being used are (Python flask, SQLalchemy, Vue.js, html, Postgres DB).
+8) Technologies being used are (Python flask, SQLalchemy, Vue.js, html, Postgres DB).
